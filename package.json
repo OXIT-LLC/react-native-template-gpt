@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-gpt",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:OXIT-LLC/react-native-template-gpt.git",
+  "author": "Jignesh Patel <jignesh.patel@oxit.com>",
+  "license": "MIT"
+}
