@@ -18,10 +18,12 @@ import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { navigationRef } from './src/navigation/navigator';
 import Logger from './src/utils/logger';
+import SplashScreen from 'react-native-splash-screen'
 
 function App(): React.JSX.Element {
 
   useEffect(() => {
+    SplashScreen.hide()
     Logger.init();
   }, [])
 

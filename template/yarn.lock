@@ -6261,6 +6261,11 @@ react-native-screens@^3.30.1:
     react-freeze "^1.0.0"
     warn-once "^0.1.0"
 
+react-native-splash-screen@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-splash-screen/-/react-native-splash-screen-3.3.0.tgz#3af71ed17afe50fee69590a45aec399d071ead02"
+  integrity sha512-rGjt6HkoSXxMqH4SQUJ1gnPQlPJV8+J47+4yhgTIan4bVvAwJhEeJH7wWt9hXSdH4+VfwTS0GTaflj1Tw83IhA==
+
 react-native-static-safe-area-insets@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/react-native-static-safe-area-insets/-/react-native-static-safe-area-insets-2.2.0.tgz#dd86b6a38f43964fac8df8c0e6bc8e062527786c"
@@ -6377,10 +6382,10 @@ reactotron-core-contract@0.2.3:
   resolved "https://registry.yarnpkg.com/reactotron-core-contract/-/reactotron-core-contract-0.2.3.tgz#4b72bbe2905fda2a7e69f2653fc32bbdaaebb052"
   integrity sha512-GMeulATwiTsAqRnTKLWgM4gG3pUxAuspW412SWutHIW0fZNEOiHg8bWTEQURhm1WZj+u4tmdbkPiIWBfH8fvvQ==
 
-reactotron-react-native@^5.1.6:
-  version "5.1.6"
-  resolved "https://registry.yarnpkg.com/reactotron-react-native/-/reactotron-react-native-5.1.6.tgz#5c5d2631d9a23c746144e3e28bea4cc567ebca62"
-  integrity sha512-1J+fRQ54mwBhrmJrz6HhBW8GdyUQ8JWXo1vcW3TA61CowYXLuhte7GPau3zt2FYNsTj/r8dd0Pf0wDuuwrzcGQ==
+reactotron-react-native@^5.1.7:
+  version "5.1.7"
+  resolved "https://registry.yarnpkg.com/reactotron-react-native/-/reactotron-react-native-5.1.7.tgz#eb344d274615f505c0ec716dc622690e2356e7cb"
+  integrity sha512-JA2NpnPJo7tHew9tMzELslmF8JX/5pDftrvrG63diZ1uW0S7UYufS47JVZEGsGozgMttERp0APMBdiTBrPW1iQ==
   dependencies:
     mitt "^3.0.1"
     reactotron-core-client "2.9.3"
